@@ -1,0 +1,24 @@
+{ 
+	"tempFolder": "tmp_dump",
+	"datasetProfiles": "profilelist_Twitter.txt",
+	"networkInterface": "lo",
+	"domainName": "pbs.twimg.com",
+	"sslOverhead": 24,
+	"firefoxPath": "/usr/local/bin/firefox",
+	"iterations": 40,
+	"startIteration": 0,
+	"startIndexProfile": 5,
+	"prefixWebpage": "https://twitter.com/",
+	"numberImagesPerProfile": 15,
+	"headlessBrowser": "True",
+	"ownIP": "172.18.15.26",
+	"maxWaitingTime": 15,
+
+
+	"checkDomain": "True",
+	"useProxy": "True",
+	"numberScrollsWebpage": 10,
+	"datasetDirectory": "datasets/"
+}
+
+

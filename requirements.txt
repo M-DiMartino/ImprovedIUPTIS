@@ -1,0 +1,2 @@
+selenium==3.14.1
+jenkspy==0.1.4

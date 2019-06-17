@@ -1,0 +1,27 @@
+{
+  "description": "Demonstrating ImprovedIUPTIS from the paper: Realistically Fingerprinting Social Media Webpages in HTTPS Traffic",
+  "manifest_version": 2,
+  "name": "IUPTISCollector",
+  "version": "2.0.0",
+
+  "permissions": [
+    "nativeMessaging",
+    "webRequest",
+    "webRequestBlocking",
+    "<all_urls>"
+  ],
+
+  "applications": {
+    "gecko": {
+      "id": "iuptis@uhasselt.be"
+    }
+  },
+
+    "background": {
+    "scripts": ["background.js"]
+  },
+
+  "urlName": "pbs.twimg.com",
+  "numberImages": 15,
+  "minImageSize": 8000
+}

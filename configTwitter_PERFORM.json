@@ -1,0 +1,20 @@
+{ 
+	"numberProfiles": 100,
+	"numberIterations": 1,
+	"numberImages": 15,
+	"b_in": 50,
+	"pi_resp": 300,
+	"sequence": 3,
+	"maxSD": 20.0,
+	"useJenks": "False",
+	"caching": 0,
+	"minFrame": 90,
+	"datasetPath":  "Twitter_Active_1sp_700p/" ,
+	"usingHTTP2": "True",
+	"useImageOrder": "True",
+	"minDataSize": 8000,
+
+	"queriesPath": "profilelist_Twitter.txt"
+}
+
+

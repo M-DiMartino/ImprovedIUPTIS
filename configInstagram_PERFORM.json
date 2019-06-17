@@ -1,0 +1,20 @@
+{ 
+	"numberProfiles": 250,
+	"numberIterations": 1,
+	"numberImages": 20,
+	"b_in": 50,
+	"pi_resp": 200,
+	"sequence": 4,
+	"maxSD": 10.0,
+	"useJenks": "False",
+	"caching": 0,
+	"minFrame": 30,
+	"datasetPath":  "Instagram_Active_1sp_6280_0days/" ,
+	"usingHTTP2": "True",
+	"useImageOrder": "True",
+	"minDataSize": 9900,
+
+	"queriesPath": "profilelist_Instagram.txt"
+}
+
+

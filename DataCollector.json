@@ -1,0 +1,8 @@
+
+{
+  "name": "DataCollector",
+  "description": "Native Messaging for IUPTIS",
+  "path": "/home/mariano/RFWIH_Package/DataCollector.py",
+  "type": "stdio",
+  "allowed_extensions": [ "iuptis@uhasselt.be" ]
+}
