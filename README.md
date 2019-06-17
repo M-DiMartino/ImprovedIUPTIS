@@ -1,8 +1,8 @@
-# Source code and dataset for Realistically Fingerprinting Social Media Webpages in HTTPS Traffic.
-# Hasselt University/EDM/Flanders Make.
-# Paper published by ACM ICPS, ARES 2019.
-# Authors: Mariano Di Martino, Peter Quax, Wim Lamotte.
-# Please cite the paper if you are using this source code.
+## Source code and dataset for Realistically Fingerprinting Social Media Webpages in HTTPS Traffic.
+Hasselt University/EDM/Flanders Make.
+Paper published by ACM ICPS, ARES 2019.
+Authors: Mariano Di Martino, Peter Quax, Wim Lamotte.
+Please cite the paper if you are using this source code.
 
 ## Important files
 * Datasets: 5 directories with existing samples (<platform_<type>_<samplesPerProfile>,<numberOfProfiles>). Example: Twitter_Active_1sp_700p
