@@ -6,7 +6,7 @@ Authors: Mariano Di Martino, Peter Quax, Wim Lamotte.
 Please cite the paper if you are using this source code.
 
 
-'''
+```
 @inproceedings{DiMartino:2019:RFS:3339252.3341478,
  author = {Di Martino, Mariano and Quax, Peter and Lamotte, Wim},
  title = {Realistically Fingerprinting Social Media Webpages in HTTPS Traffic},
@@ -25,7 +25,7 @@ Please cite the paper if you are using this source code.
  address = {New York, NY, USA},
  keywords = {forensics, social media, traffic analysis, webpage fingerprinting},
 } 
-'''
+```
 
 
 ## Important files
