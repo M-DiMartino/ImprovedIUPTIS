@@ -1,11 +1,31 @@
 ## Source code and dataset for publication 'Realistically Fingerprinting Social Media Webpages in HTTPS Traffic'.
 Hasselt University/EDM/Flanders Make.
-
-Paper published by ACM ICPS, ARES 2019.
-
+Paper published by ARES 2019.
 Authors: Mariano Di Martino, Peter Quax, Wim Lamotte.
 
 Please cite the paper if you are using this source code.
+
+
+...
+@inproceedings{DiMartino:2019:RFS:3339252.3341478,
+ author = {Di Martino, Mariano and Quax, Peter and Lamotte, Wim},
+ title = {Realistically Fingerprinting Social Media Webpages in HTTPS Traffic},
+ booktitle = {Proceedings of the 14th International Conference on Availability, Reliability and Security},
+ series = {ARES '19},
+ year = {2019},
+ isbn = {978-1-4503-7164-3},
+ location = {Canterbury, CA, United Kingdom},
+ pages = {54:1--54:10},
+ articleno = {54},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/3339252.3341478},
+ doi = {10.1145/3339252.3341478},
+ acmid = {3341478},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {forensics, social media, traffic analysis, webpage fingerprinting},
+} 
+...
 
 
 ## Important files
