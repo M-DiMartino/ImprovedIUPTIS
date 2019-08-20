@@ -1,6 +1,8 @@
 ## Source code and dataset for publication 'Realistically Fingerprinting Social Media Webpages in HTTPS Traffic'.
 Hasselt University/EDM/Flanders Make.
+
 Paper published by ARES 2019.
+
 Authors: Mariano Di Martino, Peter Quax, Wim Lamotte.
 
 Please cite the paper if you are using this source code.
@@ -94,7 +96,3 @@ Example: 'python3 tcpproxy.py 0.5 .cdninstagram.com'.
   * First line: Size of each image resource requested by the browser (in bytes). Number of image resources should be equal to 'numberOfImages'.
   * 0 0 0 : Defines the start of a new TCP connection
   * X Y Z : X = Timestamp of TLS Record,  Y = Length of TLS Record (minus the overhead),  Z = direction (e.g. -1 is from server to client, 1 is from client to server).
-
-## Final notes
-Please cite the paper if you are using this source code.
-
